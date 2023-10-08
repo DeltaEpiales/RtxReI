@@ -30,3 +30,10 @@ To run this script, you need the following requirements:
    pip install PyQt5
    pip install PyQt5 requests
    ```
+3. Run the script and use the gui!.
+
+## GUI
+1. First hit Download Rtx Remix
+2. Extract Rtx Remix
+3. Change Game Directory (This is where u want to install it)
+4. 
