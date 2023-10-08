@@ -36,7 +36,7 @@ To run this script, you need the following requirements:
 1. First hit Download Rtx Remix
 2. Extract Rtx Remix
 3. Change Game Directory (This is where u want to install it)
-4. (Optional) If you want to scan a directory and al subfolders for compatible dx9 games just hit autoscan
+4. (Optional) If you want to scan a directory and all subfolders for compatible dx9 games just hit autoscan
 5. Hit install
 6. All Done!
 ## Feedback
